@@ -8,5 +8,6 @@ The Python program performs a chemical reaction mechanism reduction using the Ca
 4. Mechanism Reduction: It removes unimportant reactions to create a reduced chemical mechanism and reruns the simulation with this reduced mechanism.
 5. Plots Results: It generates and saves plots comparing ignition delay and maximum temperature against the number of reactions for each test case.
 
+The resulting test cases data is shown below:
  
 ![Reduced Mechanisms Table](https://github.com/user-attachments/assets/e4378593-e37d-4fa0-be26-99f642f065c1)
