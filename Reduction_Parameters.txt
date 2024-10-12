@@ -1,0 +1,9 @@
+# State Values for Mechanism Reduction
+#
+# Given values: - Start value, End value, Step size for number of values
+#
+# By N. S. Ujjwal Kanth
+#
+Temperature (Kelvin)          950 1150 3
+Pressure (bar)                3 5 3
+Equivalence_Ratio (No-Units)  0.5 1.5 3
